@@ -4,7 +4,7 @@
 
 ### This is created using HTML5, CSS Animations and Vanilla JavaScript.
 
-### Try to create your best combination of beats.
+### Try to create your best combination of beats by tapping on the colours.
 
 ### Enjoy!! :relaxed: :smiling_face_with_three_hearts:
 
